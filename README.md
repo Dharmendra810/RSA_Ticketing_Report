@@ -1,8 +1,9 @@
-📌 Overview
+#📌 Overview
 
 This repository contains an MIS (Management Information System) analysis report, created using Excel. The report includes various productivity and performance metrics for advisors, technicians, and hubs. It provides valuable insights into efficiency, trends, and key performance indicators (KPIs).
 
-📊 Reports Included
+
+#📊 Reports Included
 
 📌 Advisor Productivity
 This report measures the efficiency of advisors in handling tasks and interactions.
@@ -41,17 +42,19 @@ Technician-to-Job Ratio: The number of technicians available per job volume.
 
 Productivity Trends: A graphical analysis of efficiency trends over time.
 
-🚀 How to Use
+
+#🚀 How to Use
 
 Clone the repository or download the files.
 
-git clone https://github.com/your-username/MIS_Analysis_Report.git
+git clone https://github.com/Dharmendra810/RSA_Ticketing_Report.git
 
 Open the Excel reports (.xlsx files) using Microsoft Excel or Google Sheets.
 
 Analyze the screenshots for a quick visual representation of the data.
 
-📈 Insights & Future Improvements
+
+#📈 Insights & Future Improvements
 
 Further data visualization using Power BI, Tableau or Google Data Studio.
 
@@ -59,11 +62,13 @@ Automating reports using Python (Pandas, Matplotlib, Seaborn).
 
 Enhancing predictive analytics for better decision-making.
 
-🤝 Contributions
+
+#🤝 Contributions
 
 Feel free to contribute by adding insights, improving the reports, or suggesting new features.
 
-📬 Contact
+
+#📬 Contact
 
 For any queries, reach out via GitHub issues or email.
 
