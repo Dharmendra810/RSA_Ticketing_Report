@@ -1,11 +1,11 @@
-📌 **Overview**
+# 📌 Overview
 
 This repository contains an MIS (Management Information System) analysis report, created using Excel. The report includes various productivity and performance metrics for advisors, technicians, and hubs. It provides valuable insights into efficiency, trends, and key performance indicators (KPIs).
 
 
-📊 **Reports Included**
+## 📊 Reports Included
   
-📌 Advisor Productivity
+📌 **Advisor Productivity**
 This report measures the efficiency of advisors in handling tasks and interactions.
 
 Total Cases Handled: The number of customer queries or cases managed by an advisor.
@@ -18,7 +18,7 @@ Customer Satisfaction Score (CSAT): A metric reflecting customer feedback on ser
 
 Efficiency Score: A calculated performance index based on resolution rate and response time.
 
-🔧 Technician Productivity
+🔧 **Technician Productivity**
 This report evaluates technician performance in service and repairs.
 
 Total Tasks Assigned: The number of repair or maintenance jobs assigned.
@@ -31,7 +31,7 @@ First-Time Fix Rate: The percentage of issues resolved on the first attempt with
 
 Customer Rating: Feedback scores from customers based on service quality.
 
-🏢 Hub Summary
+🏢 **Hub Summary**
 This report provides an overview of operational efficiency across multiple hubs.
 
 Total Jobs Assigned (Hub-Wise): The number of cases or service requests handled by each hub.
@@ -43,7 +43,7 @@ Technician-to-Job Ratio: The number of technicians available per job volume.
 Productivity Trends: A graphical analysis of efficiency trends over time.
 
 
-🚀 **How to Use**
+## 🚀 How to Use
 
 Clone the repository or download the files.
 
@@ -54,7 +54,7 @@ Open the Excel reports (.xlsx files) using Microsoft Excel or Google Sheets.
 Analyze the screenshots for a quick visual representation of the data.
 
 
-📈 **Insights & Future Improvements**
+## 📈 Insights & Future Improvements
 
 Further data visualization using Power BI, Tableau or Google Data Studio.
 
@@ -63,12 +63,12 @@ Automating reports using Python (Pandas, Matplotlib, Seaborn).
 Enhancing predictive analytics for better decision-making.
 
 
-🤝 **Contributions**
+## 🤝 Contributions
 
 Feel free to contribute by adding insights, improving the reports, or suggesting new features.
 
 
-📬 **Contact**
+## 📬 Contact
 
 For any queries, reach out via GitHub issues or email.
 
